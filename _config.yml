@@ -1,0 +1,16 @@
+title: james-bullock
+description: Sr. Machine Learning Engineer. Anomaly detection, temporal networks, manufacturing AI.
+header_pages:
+  - about.md
+  - resume.md
+  - blog.md
+remote_theme: b2a3e8/jekyll-theme-console
+style: dark
+lang: en
+resume_url: /resume
+show_excerpts: true
+permalink: /blog/:year/:month/:day/:title
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
